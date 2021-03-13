@@ -1,2 +1,2 @@
-# DiscordRichPresence
-Discord Rich Presence Changer
+# Discord Rich Presence Changer
+Easy to use discord rich presence changer
